@@ -1,0 +1,8 @@
+{
+  "name": "multer-uploading",
+  "version": "0.0.1",
+  "scripts": {
+    "prestart" : "tsc",
+    "start" : "node dist/index.js"
+  }
+}
